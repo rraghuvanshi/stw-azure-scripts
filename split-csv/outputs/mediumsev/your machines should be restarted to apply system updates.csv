@@ -1,0 +1,4 @@
+resourcename,resourcetype,resourcegroup,subscriptionname,recommendationdisplayname,state,severity,os,environment,businessowner,In-HyperCare-scope
+st4w10049,virtualmachines,st-sapss-dev-neu-rg,production,your machines should be restarted to apply system updates,unhealthy,medium,windows,dev,simon.mac@severntrent.co.uk,False
+st2w3538,virtualmachines,st-kofaxcapture-preprod-neu-rg,non-production,your machines should be restarted to apply system updates,unhealthy,medium,windows,preprod,ssmith5,True
+st2w3044,virtualmachines,st-agentcardpayment-preprod-neu-rg,non-production,your machines should be restarted to apply system updates,unhealthy,medium,windows,preprod,phurst1,True

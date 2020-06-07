@@ -1,0 +1,3 @@
+resourcename,resourcetype,resourcegroup,subscriptionname,recommendationdisplayname,state,severity,os,environment,businessowner,In-HyperCare-scope
+st3l10140,virtualmachines,st-devops-test-neu-rg,non-production,vulnerabilities in container security configurations should be remediated,unhealthy,high,linux,test,,False
+st3l10142,virtualmachines,st-devops-test-neu-rg,non-production,vulnerabilities in container security configurations should be remediated,unhealthy,high,linux,test,,False

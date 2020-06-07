@@ -1,0 +1,41 @@
+resourcename,resourcetype,resourcegroup,subscriptionname,recommendationdisplayname,state,severity,os,environment,businessowner,In-HyperCare-scope
+st1w10088,virtualmachines,st-pkiroot-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+asr-test-002,virtualmachines,asr-replication-asr,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,,,False
+st1w10006,virtualmachines,st-biophase4-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10023,virtualmachines,st-chatbots-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,bill.wilson@severntrent.co.uk,False
+st1w10081,virtualmachines,st-ctxmgmt-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,david kent,False
+st1w10138,virtualmachines,st-ctxmgmt-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10030,virtualmachines,st-epp-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,sam.mathew@severntrent.co.uk,False
+st1w10024,virtualmachines,st-monitoring-ss-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,ss,mark.gwynne@severntrent.co.uk,False
+st1w10082,virtualmachines,st-ctxmgmt-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,david kent,False
+st1w10089,virtualmachines,st-pki-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10090,virtualmachines,st-pki-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10091,virtualmachines,st-pki-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10092,virtualmachines,st-pki-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10093,virtualmachines,st-pki-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10137,virtualmachines,st-pki-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10139,virtualmachines,st-pki-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st1w10087,virtualmachines,st-pkiroot-prod-neu-rg,production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,prod,,False
+st4w10008,virtualmachines,st-biophase4-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,helen.black@severntrent.co.uk,False
+chatbot-temp-vm,virtualmachines,st-chatbots-dev-uks-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,bill wilson,False
+testcmpqa,virtualmachines,st-cmp-projqa-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,projqa,hbenne1,False
+st4w10050,virtualmachines,st-ctximage-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,,,False
+st2w10115,virtualmachines,st-ctximage-preprod-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,preprod,mark gwynne,False
+st4w20050,virtualmachines,st-ctxprofile-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,,False
+st2w10143,virtualmachines,st-ctxserver2019image-preprod-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,preprod,,False
+st2w10051,virtualmachines,st-dcp-dynamics-nonprod-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,nonprod,lisa.russell@severntrent.co.uk,False
+st3w10150,virtualmachines,st-devops-test-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,test,,False
+mikesdc,virtualmachines,st-mikepoc-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,simon.mac@severntrent.co.uk,False
+st4w30001,virtualmachines,st-nap-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,david anderson,False
+st4w30002,virtualmachines,st-nap-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,david anderson,False
+st4w30003,virtualmachines,st-nap-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,david anderson,False
+st3w10128,virtualmachines,st-nap-manager-test-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,test,,False
+st3w10118,virtualmachines,st-nap-test-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,test,,False
+st3w10126,virtualmachines,st-nap-test-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,test,,False
+st2w40001,virtualmachines,st-nsgtestingwin16-preprod-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,preprod,sam.mathew@severntrent.co.uk,False
+vmcputest,virtualmachines,st-vmautopoc-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,,,False
+st4w3307m-test,virtualmachines,st-azuremigrate-prod-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,,,False
+st4w10028,virtualmachines,st-gisstdb-dev-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,dev,steve allen,False
+weuwin001,virtualmachines,st-alerting-preprod-manual,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,,,False
+st3w10144,virtualmachines,st-devops-test-neu-rg,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,test,,False
+st2w10083,virtualmachines,sp2016spike,non-production,network traffic data collection agent should be installed on windows virtual machines (preview),unhealthy,medium,windows,,,False

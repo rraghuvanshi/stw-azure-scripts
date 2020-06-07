@@ -1,0 +1,7 @@
+resourcename,resourcetype,resourcegroup,subscriptionname,recommendationdisplayname,state,severity,os,environment,businessowner,In-HyperCare-scope
+st1l10085,virtualmachines,st-netbase-prod-weu-rg,production,network traffic data collection agent should be installed on linux virtual machines (preview),unhealthy,medium,linux,prod,paul taylor,False
+st3l10142,virtualmachines,st-devops-test-neu-rg,non-production,network traffic data collection agent should be installed on linux virtual machines (preview),unhealthy,medium,linux,test,,False
+st2l40003,virtualmachines,st-linuxbakpoc-preprod-neu-rg,non-production,network traffic data collection agent should be installed on linux virtual machines (preview),unhealthy,medium,linux,preprod,nagarajan.meyyappan@severntrent.co.uk,False
+st4l10062,virtualmachines,st-vmautopoc-dev-neu-rg,non-production,network traffic data collection agent should be installed on linux virtual machines (preview),unhealthy,medium,linux,test,,False
+st3l10140,virtualmachines,st-devops-test-neu-rg,non-production,network traffic data collection agent should be installed on linux virtual machines (preview),unhealthy,medium,linux,test,,False
+st3l10141,virtualmachines,st-devops-test-neu-rg,non-production,network traffic data collection agent should be installed on linux virtual machines (preview),unhealthy,medium,linux,test,,False
