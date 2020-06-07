@@ -50,7 +50,7 @@ Remove-Item "$R" -force
 
 Set-location "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs"
 
-$inputFile = Get-ChildItem -Path "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs" -Filter '*.csv' | where {$_.Name -like "AzureSecurityCenterRecommendations*"} | Select-Object FullName
+$inputFile = Get-ChildItem -Path "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs" -Filter '*.csv' | Where-Object {$_.Name -like "AzureSecurityCenterRecommendations*"} | Select-Object FullName
 
 $inputFile = $inputFile.FullName
 
