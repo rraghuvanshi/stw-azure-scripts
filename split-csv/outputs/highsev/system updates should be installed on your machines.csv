@@ -1,12 +1,12 @@
 resourcename,resourcetype,resourcegroup,subscriptionname,recommendationdisplayname,state,severity,os,environment,businessowner,In-HyperCare-scope
+st1w10137,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
 st1w10139,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
 st3w10073,virtualmachines,st-sapss-dev-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
 st4w10049,virtualmachines,st-sapss-dev-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
 st1w10160,virtualmachines,st-tableau-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
-st1w10137,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
 st1w10093,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
 st1w10092,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
-st1w10091,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
+st1w10090,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
 st1w3434,virtualmachines,st-access_control-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,True
 st1w3436,virtualmachines,st-access_control-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,True
 st1w10023,virtualmachines,st-chatbots-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,bill.wilson@severntrent.co.uk,False
@@ -18,8 +18,8 @@ st1w10082,virtualmachines,st-ctxmgmt-prod-neu-rg,production,system updates shoul
 st1w10138,virtualmachines,st-ctxmgmt-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
 st1w10054,virtualmachines,st-datastore-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,tbc,False
 st1w10056,virtualmachines,st-datastore-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,mark gwynne,False
+st1w10091,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
 st1w10057,virtualmachines,st-datastore-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,tbc,False
-st1w10055,virtualmachines,st-datastore-prod-weu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,tbc,False
 st1w3054,virtualmachines,st-dwsp-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,mark gwynne,True
 st1w10030,virtualmachines,st-epp-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,sam.mathew@severntrent.co.uk,False
 st1w10145,virtualmachines,st-igel-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
@@ -31,8 +31,8 @@ st1w10077,virtualmachines,st-netbase-prod-neu-rg,production,system updates shoul
 st1w10078,virtualmachines,st-netbase-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,paul taylor,False
 st1w10079,virtualmachines,st-netbase-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,paul taylor,False
 st1w10089,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
-st1w10090,virtualmachines,st-pki-prod-neu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,,False
-st3w3054,virtualmachines,st-dwsp-devtest-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,devtest,swatsoa,True
+st1w10055,virtualmachines,st-datastore-prod-weu-rg,production,system updates should be installed on your machines,unhealthy,high,windows,prod,tbc,False
+st2w3566,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st4w10152,virtualmachines,st-tosca-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,default,dean banfield,False
 st2w3510,virtualmachines,sp2016spike,non-production,system updates should be installed on your machines,unhealthy,high,windows,,,False
 st2w3511,virtualmachines,sp2016spike,non-production,system updates should be installed on your machines,unhealthy,high,windows,,,False
@@ -41,10 +41,9 @@ st2w3044,virtualmachines,st-agentcardpayment-preprod-neu-rg,non-production,syste
 st4w10155,virtualmachines,st-azuredevops-agents,non-production,system updates should be installed on your machines,unhealthy,high,windows,default,dean banfield,False
 st4w10008,virtualmachines,st-biophase4-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,helen.black@severntrent.co.uk,False
 st2w10005,virtualmachines,st-biophase4-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,helen.black@severntrent.co.uk,False
-st2w3560,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
+st2w3561,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3563,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3564,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
-st2w3566,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3572,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3573,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3574,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
@@ -53,11 +52,11 @@ st2w3582,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updat
 st2w3583,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3584,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3585,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
-st2w3561,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
+st2w3560,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3587,virtualmachines,st-blueprism-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,shannon coleman,True
 st2w3105,virtualmachines,st-totalview-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,"towers,scott",True
-st2w10086,virtualmachines,st-causeway-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,cat mcguiness,False
-st4w3158,virtualmachines,st-cmpproj-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,hbenne1,True
+st4w10154,virtualmachines,st-click-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,ian.randle@severntrent.co.uk,False
+st4w3438,virtualmachines,st-cmpproj-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,hbenne1,True
 lvsb4w01,virtualmachines,st-sappoc-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,,,False
 st4w10012,virtualmachines,st-sappoc-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
 st4w10034,virtualmachines,st-sapprj-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
@@ -86,7 +85,6 @@ st3w10067,virtualmachines,st-sapprj-test-neu-rg,non-production,system updates sh
 st2w3108,virtualmachines,st-samplemanager-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,swatsoa,False
 st2w3010,virtualmachines,st-quislite-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,swatsoa,False
 st3w10026,virtualmachines,st-netbase-test-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,test,paul taylor,False
-st4w3438,virtualmachines,st-cmpproj-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,hbenne1,True
 st4w20050,virtualmachines,st-ctxprofile-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,,False
 st3w10052,virtualmachines,st-datastore-devtest-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,devtest,tbc,False
 st3w10083,virtualmachines,st-datastore-devtest-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,devtest,,True
@@ -97,7 +95,8 @@ st2w10051,virtualmachines,st-dcp-dynamics-nonprod-neu-rg,non-production,system u
 st4w10057,virtualmachines,st-deviibws-devtest-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,devtest,tim watson,False
 st3w10144,virtualmachines,st-devops-test-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,test,,False
 st3w10150,virtualmachines,st-devops-test-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,test,,False
-st4w10154,virtualmachines,st-click-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,ian.randle@severntrent.co.uk,False
+st3w3054,virtualmachines,st-dwsp-devtest-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,devtest,swatsoa,True
+st4w3158,virtualmachines,st-cmpproj-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,hbenne1,True
 st4w3054,virtualmachines,st-dwsp-devtest-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,devtest,swatsoa,True
 st2w3360,virtualmachines,st-eda-preprod-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,preprod,ptaylo2,True
 st4w10028,virtualmachines,st-gisstdb-dev-neu-rg,non-production,system updates should be installed on your machines,unhealthy,high,windows,dev,steve allen,False

@@ -25,26 +25,26 @@ st1w10060,virtualmachines,st-safeq-prod-neu-rg,production,endpoint protection he
 st1w10059,virtualmachines,st-safeq-prod-neu-rg,production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,prod,stuart brown,False
 st1w2734,virtualmachines,st-printandfile-prod-neu-rg,production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,prod,stuart brown,True
 st2w3330,virtualmachines,st-jmeter-prod-neu-rg,production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,prod,sagarpandya,False
+st2w3357,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
+st2w19011,virtualmachines,st-ctxserver2019-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False
 st2w3356,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
 st2w3054,virtualmachines,st-dwsp-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,mark gwynne,True
 st4w3054,virtualmachines,st-dwsp-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,swatsoa,True
 st3w3054,virtualmachines,st-dwsp-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,swatsoa,True
 st2w10053,virtualmachines,st-datastore-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,tbc,False
-st2w19011,virtualmachines,st-ctxserver2019-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False
-st2w10147,virtualmachines,st-ctxmgmtpreprod-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,,False
-st3w3152,virtualmachines,st-cmpproj-test-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,test,hbenne1,True
-st2w19010,virtualmachines,st-ctxmachine-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False
-st4w10050,virtualmachines,st-ctximage-dev-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False
 st3w3438,virtualmachines,st-cmpproj-test-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,test,hbenne1,True
+st2w10146,virtualmachines,st-ctxmgmtpreprod-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,,False
+st2w19008,virtualmachines,st-ctxmachine-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False
+st4w10050,virtualmachines,st-ctximage-dev-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False
+st3w3152,virtualmachines,st-cmpproj-test-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,test,hbenne1,True
 st4w3438,virtualmachines,st-cmpproj-dev-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,dev,hbenne1,True
 st4w3158,virtualmachines,st-cmpproj-dev-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,dev,hbenne1,True
 st1w1637,virtualmachines,st-cmpdevworkstation-dev-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,dev,hbenne1,False
-st2w3587,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
-st2w3357,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
-st2w10146,virtualmachines,st-ctxmgmtpreprod-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,,False
 st2w3359,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,False
+st2w10147,virtualmachines,st-ctxmgmtpreprod-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,,False
+st2w3360,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
 st2w3349,virtualmachines,st-storm-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,homall1,True
-st2w3361,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
+st2w3362,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
 st2w3105,virtualmachines,st-totalview-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,"towers,scott",True
 st4w40003,virtualmachines,st-symantecpoc-dev-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,dev,sam.mathew@severntrent.co.uk,False
 st4w3338,virtualmachines,st-swim-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,jscall1,False
@@ -53,8 +53,8 @@ st4w3308,virtualmachines,st-swim-devtest-neu-rg,non-production,endpoint protecti
 st4w3092,virtualmachines,st-stuca-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,pbaxte1,False
 st3w3350,virtualmachines,st-storm-uat-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,uat,homall1,True
 st2w3350,virtualmachines,st-storm-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,homall1,True
-st2w3360,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
-st2w3585,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
+st2w3587,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
+st4w3350,virtualmachines,st-storm-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,homall1,True
 st4w3349,virtualmachines,st-storm-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,homall1,True
 st2w3043,virtualmachines,st-starlims-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,starlims (vendor support),True
 st2w3108,virtualmachines,st-samplemanager-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,swatsoa,False
@@ -62,12 +62,12 @@ st2w3107,virtualmachines,st-samplemanager-preprod-neu-rg,non-production,endpoint
 st2w3010,virtualmachines,st-quislite-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,swatsoa,False
 st4w30002,virtualmachines,st-nap-dev-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,dev,david anderson,False
 st2w3538,virtualmachines,st-kofaxcapture-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ssmith5,True
-st2w3362,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
-st4w3350,virtualmachines,st-storm-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,homall1,True
-st2w3584,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
+st2w3361,virtualmachines,st-eda-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,ptaylo2,True
+st2w3585,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
 st2w3044,virtualmachines,st-agentcardpayment-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,phurst1,True
-st2w3582,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
 st2w3583,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
+st2w3584,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
+st2w3582,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
 st2w3575,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
 st2w3574,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
 st2w3573,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
@@ -77,7 +77,6 @@ st2w3563,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint pro
 st2w3562,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
 st2w3561,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
 st2w3560,virtualmachines,st-blueprism-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,shannon coleman,True
-st2w10005,virtualmachines,st-biophase4-preprod-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,preprod,helen.black@severntrent.co.uk,False
 st4w3044,virtualmachines,st-agentcardpayment-devtest-neu-rg,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,devtest,phurst1,True
 st2w3511,virtualmachines,sp2016spike,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False
 st2w3510,virtualmachines,sp2016spike,non-production,endpoint protection health issues should be resolved on your machines,unhealthy,medium,windows,,,False

@@ -48,10 +48,13 @@ Remove-Item "$R" -force
 #return $outputfile
 }
 
+Set-location "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs"
 
-#Set-location "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\scripts"
+$inputFile = Get-ChildItem -Path "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs" -Filter '*.csv' | where {$_.Name -like "AzureSecurityCenterRecommendations*"} | Select-Object FullName
 
-$inputFile = "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs\AzureSecurityCenterRecommendations_2020-06-06T21_02_59Z.csv"
+$inputFile = $inputFile.FullName
+
+#$inputFile = "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs\AzureSecurityCenterRecommendations_2020-06-06T21_02_59Z.csv"
 
 $hsevfilepath = "C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\placeholder\highseverityrecommendations.csv"
 

@@ -1,32 +1,32 @@
 resourcename,resourcetype,resourcegroup,subscriptionname,recommendationdisplayname,state,severity,os,environment,businessowner,In-HyperCare-scope
-st1w10023,virtualmachines,st-chatbots-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,bill.wilson@severntrent.co.uk,False
-st1w10081,virtualmachines,st-ctxmgmt-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,david kent,False
-st1w10082,virtualmachines,st-ctxmgmt-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,david kent,False
-st1w10138,virtualmachines,st-ctxmgmt-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,,False
-st1w10030,virtualmachines,st-epp-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,sam.mathew@severntrent.co.uk,False
-st1l10032,virtualmachines,st-logrhythm-ss-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,linux,ss,,False
-st1w10024,virtualmachines,st-monitoring-ss-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,ss,mark.gwynne@severntrent.co.uk,False
-st1l10080,virtualmachines,st-netbase-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,linux,prod,paul taylor,False
-st1l10085,virtualmachines,st-netbase-prod-weu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,linux,prod,paul taylor,False
-st4w10048,virtualmachines,st-sapss-dev-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
-st1w10031,virtualmachines,st-vulman-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,sam.mathew@severntrent.co.uk,False
 asr-test-002,virtualmachines,asr-replication-asr,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
+st4w10048,virtualmachines,st-sapss-dev-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
+st1l10085,virtualmachines,st-netbase-prod-weu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,linux,prod,paul taylor,False
+st1l10080,virtualmachines,st-netbase-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,linux,prod,paul taylor,False
+st1l10032,virtualmachines,st-logrhythm-ss-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,linux,ss,,False
+st1w10030,virtualmachines,st-epp-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,sam.mathew@severntrent.co.uk,False
+st1w10138,virtualmachines,st-ctxmgmt-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,,False
+st1w10082,virtualmachines,st-ctxmgmt-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,david kent,False
+st1w10081,virtualmachines,st-ctxmgmt-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,david kent,False
+st1w10023,virtualmachines,st-chatbots-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,bill.wilson@severntrent.co.uk,False
+st1w10024,virtualmachines,st-monitoring-ss-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,ss,mark.gwynne@severntrent.co.uk,False
+st1w10031,virtualmachines,st-vulman-prod-neu-rg,production,disk encryption should be applied on virtual machines,unhealthy,high,windows,prod,sam.mathew@severntrent.co.uk,False
 st4w10094,virtualmachines,st-sap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
-st2l10004,virtualmachines,st-oracledatastore-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,preprod,swatsoa,False
-st4l10011,virtualmachines,st-oracledatastore-devtest-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,devtest,mark adams,
-st3l10083,virtualmachines,st-netbase-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,paul taylor,False
-linvmpoc,virtualmachines,st-netbase-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,paul taylor,False
-st2l10084,virtualmachines,st-netbase-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,preprod,paul taylor,False
-st3w10118,virtualmachines,st-nap-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
-st3w10117,virtualmachines,st-nap-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
-st3w10116,virtualmachines,st-nap-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
-st3w10128,virtualmachines,st-nap-manager-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
-st3w10127,virtualmachines,st-nap-manager-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
 st4w30003,virtualmachines,st-nap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,david anderson,False
+st3w10127,virtualmachines,st-nap-manager-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st3w10128,virtualmachines,st-nap-manager-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st3w10116,virtualmachines,st-nap-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st3w10118,virtualmachines,st-nap-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
 st3w10126,virtualmachines,st-nap-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st2l10084,virtualmachines,st-netbase-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,preprod,paul taylor,False
+linvmpoc,virtualmachines,st-netbase-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,paul taylor,False
+st3l10083,virtualmachines,st-netbase-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,paul taylor,False
+st4l10011,virtualmachines,st-oracledatastore-devtest-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,devtest,mark adams,
+st2l10004,virtualmachines,st-oracledatastore-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,preprod,swatsoa,False
 st4w10095,virtualmachines,st-sap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
-st4w10012,virtualmachines,st-sappoc-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
+st4w10097,virtualmachines,st-sap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
 st4w10011,virtualmachines,st-sappoc-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
+st4w10012,virtualmachines,st-sappoc-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
 st4w10013,virtualmachines,st-sappoc-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
 st4w10033,virtualmachines,st-sapprj-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
 st4w10037,virtualmachines,st-sapprj-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
@@ -40,28 +40,28 @@ st4l10157,virtualmachines,st-target-dev-neu-rg,non-production,disk encryption sh
 st4w10134,virtualmachines,st-tosca-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,default,dean banfield,False
 st4w10151,virtualmachines,st-tosca-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,default,dean banfield,False
 st4w10152,virtualmachines,st-tosca-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,default,dean banfield,False
-st4w10097,virtualmachines,st-sap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
-st4w30002,virtualmachines,st-nap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,david anderson,False
-st4w10028,virtualmachines,st-gisstdb-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,steve allen,False
-mikesdc,virtualmachines,st-mikepoc-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
-st2w10083,virtualmachines,sp2016spike,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
-weuwin001,virtualmachines,st-alerting-preprod-manual,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
-st4l10119,virtualmachines,st-azuredevops-agents,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,,,False
-st4w30001,virtualmachines,st-nap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,david anderson,False
-st4w10120,virtualmachines,st-azuredevops-agents,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
-st4w3307m-test,virtualmachines,st-azuremigrate-prod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
-st4w10008,virtualmachines,st-biophase4-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,helen.black@severntrent.co.uk,False
-chatbot-temp-vm,virtualmachines,st-chatbots-dev-uks-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,bill wilson,False
-testcmpqa,virtualmachines,st-cmp-projqa-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,projqa,hbenne1,False
-st4w10050,virtualmachines,st-ctximage-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
-st2w10115,virtualmachines,st-ctximage-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,preprod,mark gwynne,False
-st4w20050,virtualmachines,st-ctxprofile-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,,False
-st2w10143,virtualmachines,st-ctxserver2019image-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,preprod,,False
-st2w10051,virtualmachines,st-dcp-dynamics-nonprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,nonprod,lisa.russell@severntrent.co.uk,False
-st3l10140,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,,False
-st3l10141,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,,False
 vmcputest,virtualmachines,st-vmautopoc-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
-st3w10144,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
-st3w10150,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st4w30002,virtualmachines,st-nap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,david anderson,False
+st4w30001,virtualmachines,st-nap-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,david anderson,False
+st3w10117,virtualmachines,st-nap-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st4w10028,virtualmachines,st-gisstdb-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,steve allen,False
+st4l10119,virtualmachines,st-azuredevops-agents,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,,,False
+weuwin001,virtualmachines,st-alerting-preprod-manual,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
+st2w10083,virtualmachines,sp2016spike,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
+mikesdc,virtualmachines,st-mikepoc-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,simon.mac@severntrent.co.uk,False
+st4w10120,virtualmachines,st-azuredevops-agents,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
 st4w10155,virtualmachines,st-azuredevops-agents,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,default,dean banfield,False
+st4w10008,virtualmachines,st-biophase4-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,helen.black@severntrent.co.uk,False
+st3w10150,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st4w3307m-test,virtualmachines,st-azuremigrate-prod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
 st3l10142,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,,False
+st3l10141,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,,False
+st3l10140,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,linux,test,,False
+st2w10051,virtualmachines,st-dcp-dynamics-nonprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,nonprod,lisa.russell@severntrent.co.uk,False
+st3w10144,virtualmachines,st-devops-test-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,test,,False
+st4w20050,virtualmachines,st-ctxprofile-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,,False
+st2w10115,virtualmachines,st-ctximage-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,preprod,mark gwynne,False
+st4w10050,virtualmachines,st-ctximage-dev-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,,,False
+testcmpqa,virtualmachines,st-cmp-projqa-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,projqa,hbenne1,False
+chatbot-temp-vm,virtualmachines,st-chatbots-dev-uks-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,dev,bill wilson,False
+st2w10143,virtualmachines,st-ctxserver2019image-preprod-neu-rg,non-production,disk encryption should be applied on virtual machines,unhealthy,high,windows,preprod,,False

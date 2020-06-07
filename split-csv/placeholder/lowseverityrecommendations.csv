@@ -780,7 +780,7 @@
 "st3w3152","virtualmachines","st-cmpproj-test-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"
 "st3w3438","virtualmachines","st-cmpproj-test-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"
 "st4w10050","virtualmachines","st-ctximage-dev-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"
-"st2w19010","virtualmachines","st-ctxmachine-preprod-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"
+"st2w19008","virtualmachines","st-ctxmachine-preprod-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"
 "st2w10146","virtualmachines","st-ctxmgmtpreprod-preprod-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"
 "st2w10147","virtualmachines","st-ctxmgmtpreprod-preprod-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"
 "st4w20050","virtualmachines","st-ctxprofile-dev-neu-rg","non-production","vulnerabilities in security configuration on your machines should be remediated","unhealthy","low"

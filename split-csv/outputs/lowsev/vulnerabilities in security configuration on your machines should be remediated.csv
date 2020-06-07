@@ -162,7 +162,7 @@ st4w3438,virtualmachines,st-cmpproj-dev-neu-rg,non-production,vulnerabilities in
 st3w3152,virtualmachines,st-cmpproj-test-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,test,hbenne1,True
 st3w3438,virtualmachines,st-cmpproj-test-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,test,hbenne1,True
 st4w10050,virtualmachines,st-ctximage-dev-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,,,False
-st2w19010,virtualmachines,st-ctxmachine-preprod-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,,,False
+st2w19008,virtualmachines,st-ctxmachine-preprod-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,,,False
 st2w10146,virtualmachines,st-ctxmgmtpreprod-preprod-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,preprod,,False
 st2w10147,virtualmachines,st-ctxmgmtpreprod-preprod-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,preprod,,False
 st4w10154,virtualmachines,st-click-dev-neu-rg,non-production,vulnerabilities in security configuration on your machines should be remediated,unhealthy,low,windows,dev,ian.randle@severntrent.co.uk,False

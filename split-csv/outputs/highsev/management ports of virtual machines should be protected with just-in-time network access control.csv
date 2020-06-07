@@ -1,13 +1,13 @@
 resourcename,resourcetype,resourcegroup,subscriptionname,recommendationdisplayname,state,severity,os,environment,businessowner,In-HyperCare-scope
-st2w10083,virtualmachines,sp2016spike,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,windows,,,False
-weuwin001,virtualmachines,st-alerting-preprod-manual,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,windows,,,False
-st4l10119,virtualmachines,st-azuredevops-agents,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,,,False
-st2l10084,virtualmachines,st-netbase-preprod-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,preprod,paul taylor,False
 linvmpoc,virtualmachines,st-netbase-test-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,test,paul taylor,False
+st4l10119,virtualmachines,st-azuredevops-agents,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,,,False
+st4w10120,virtualmachines,st-azuredevops-agents,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,windows,,,False
+st2l10084,virtualmachines,st-netbase-preprod-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,preprod,paul taylor,False
 st3l10083,virtualmachines,st-netbase-test-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,test,paul taylor,False
 st4l10011,virtualmachines,st-oracledatastore-devtest-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,devtest,mark adams,
 st2l10004,virtualmachines,st-oracledatastore-preprod-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,preprod,swatsoa,False
 st4l10129,virtualmachines,st-sap-dev-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,devtest,amit sharma,False
 st2l10131,virtualmachines,st-sap-preprod-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,preprod,amit sharma,False
 st4l10062,virtualmachines,st-vmautopoc-dev-neu-rg,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,linux,test,,False
-st4w10120,virtualmachines,st-azuredevops-agents,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,windows,,,False
+weuwin001,virtualmachines,st-alerting-preprod-manual,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,windows,,,False
+st2w10083,virtualmachines,sp2016spike,non-production,management ports of virtual machines should be protected with just-in-time network access control,unhealthy,high,windows,,,False
