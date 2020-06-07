@@ -5,12 +5,6 @@ function jointohypercare {
         $filepath
     )
     
-#$prodsubid = "0b731124-849a-49c0-99a8-732f55740893"
-#$nonprodsubid = "39145e23-d044-41c8-a83d-4bab22cc8f5d"
-
-#$prodsubname = "production"
-#$nonprodsubname = "non-production"
-
 $L = $filepath
 
 $H = 'C:\azureadmin\stw-azure-scripts\stw-azure-scripts\split-csv\inputs\hypercarescope.csv'        ## Update hypercare scope if you need to
